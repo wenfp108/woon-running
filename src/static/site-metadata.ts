@@ -10,18 +10,14 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Running Page',
-  siteUrl: 'https://yihong.run',
-  logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
+  siteTitle: 'Woon跑步日志',
+  siteUrl: 'https://www.strava.com/athletes/135469581',
+  logo:  'https://i.ibb.co/GMqKV7L/20240429191059.jpg',
   description: 'Personal site and blog',
   navLinks: [
     {
-      name: 'Blog',
-      url: 'https://github.com/yihong0618/gitblog',
-    },
-    {
-      name: 'About',
-      url: 'https://github.com/yihong0618/running_page/blob/master/README-CN.md',
+      name: 'STRAVA资料',
+      url: 'https://www.strava.com/athletes/135469581',
     },
   ],
 };
