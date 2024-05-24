@@ -11,12 +11,12 @@ interface ISiteMetadataResult {
 
 const data: ISiteMetadataResult = {
   siteTitle: 'Woon跑步日志',
-  siteUrl: 'https://www.strava.com/athletes/135469581',
+  siteUrl: 'https://woon-running.vercel.app/',
   logo:  'https://i.ibb.co/GMqKV7L/20240429191059.jpg',
   description: 'Personal site and blog',
   navLinks: [
     {
-      name: 'STRAVA资料',
+      name: 'Strava',
       url: 'https://www.strava.com/athletes/135469581',
     },
   ],
