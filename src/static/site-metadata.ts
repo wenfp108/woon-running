@@ -12,7 +12,7 @@ interface ISiteMetadataResult {
 const data: ISiteMetadataResult = {
   siteTitle: 'Woon跑步日志',
   siteUrl: 'https://woon-running.vercel.app/',
-  logo:  'https://ibb.co/tJdVZw5',
+  logo:  'https://i.ibb.co/fxcj8V7/Big-Meow-cats-catsofinstagram-cat-catstagram-instagram-catlover-catlife-catlovers-instacat-kitten-pe.jpg',
   description: 'Personal site and blog',
   navLinks: [
     {
