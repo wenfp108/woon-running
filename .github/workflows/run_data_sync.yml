@@ -29,7 +29,7 @@ env:
   ATHLETE: WoonWen
   TITLE: Woon Running Record
   MIN_GRID_DISTANCE: 5 # change min distance here
-  TITLE_GRID: Over 5km Runs # also here
+  TITLE_GRID: Over 10km Rides # also here
   GITHUB_NAME: wenfp108 # change to yours
   GITHUB_EMAIL: wenfp108@gmail.com # change to yours
 
